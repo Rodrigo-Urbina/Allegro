@@ -1,2 +1,2 @@
-# Are-u-there
-Terror game made on Java by Netbeans
+# Allegro 
+Web page created for the dance academy called Allegro
